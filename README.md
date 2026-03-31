@@ -72,4 +72,6 @@ CIRCUIT
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/bd582930-bd37-4076-a564-57ada42158e4" />
+
 ---
